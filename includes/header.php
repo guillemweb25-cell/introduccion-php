@@ -13,6 +13,7 @@
         <nav class="main-nav">
             <a href="/index.php">Inicio</a>
             <a href="/acerca.php">Acerca</a>
+            <a href="/galeria.php">Galería</a>
         </nav>
     </div>
 </header>
